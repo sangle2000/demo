@@ -1,0 +1,13 @@
+{
+    "name": "com.yourcompany.yourpackagename",
+    "displayName": "Demo",
+    "version": "1.0.0",
+    "unity": "2022.3",
+    "description": "This is demo package",
+    "keywords": ["unity", "package"],
+    "author": "Sang Lê",
+    "license": "MIT",
+    "dependencies": {
+        "com.gadgame.demo": "https://github.com/sangle2000/demo.git#1.0.0"
+    }
+}

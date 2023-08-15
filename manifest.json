@@ -1,0 +1,5 @@
+{
+    "dependencies": {
+        "com.gadgame.demo": "https://github.com/sangle2000/demo.git#1.0.0"
+    }
+}
