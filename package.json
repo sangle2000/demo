@@ -6,8 +6,5 @@
     "description": "A simple Unity demo package.",
     "keywords": ["unity", "package"],
     "author": "sang Lê",
-    "license": "MIT",
-    "dependencies": {
-        "com.sangle2000.demo": "https://github.com/sangle2000/demo.git#main"
-    }
+    "license": "MIT"
 }
